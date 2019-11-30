@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583584045878",
+    "firebase_url": "https://chat-57651.firebaseio.com",
+    "project_id": "chat-57651",
+    "storage_bucket": "chat-57651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583584045878:android:2135d194d103cadbadb197",
+        "android_client_info": {
+          "package_name": "com.jackie.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583584045878-620to556aolkr65sh9khmm3ktf40io05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENSCSUYifC4sM9jWpy1hXvI4zJ2Rl0gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583584045878-620to556aolkr65sh9khmm3ktf40io05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
